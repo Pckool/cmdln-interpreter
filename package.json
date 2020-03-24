@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "The first project for the compilers class",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pckool/cmdln-interpreter.git"
+  },
+  "author": "Philippe Clesca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pckool/cmdln-interpreter/issues"
+  },
+  "homepage": "https://github.com/Pckool/cmdln-interpreter#readme"
+}
