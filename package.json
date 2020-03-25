@@ -4,9 +4,10 @@
   "description": "The first project for the compilers class",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
+    "test": "node index.js --dev",
     "build": "tsc --config tsconfig.json",
-    "dev": "tsc --config tsconfig.json --watch"
+    "dev": "tsc --config tsconfig.json --watch",
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
