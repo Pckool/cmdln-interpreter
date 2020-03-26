@@ -7,7 +7,7 @@
     "test": "node index.js --dev",
     "build": "tsc --config tsconfig.json",
     "dev": "tsc --config tsconfig.json --watch",
-    "run": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
